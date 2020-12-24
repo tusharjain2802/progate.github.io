@@ -15,20 +15,11 @@ body {
 	background-color: skyblue;
 	color: #000;
 }
-.butn{
-	border: 1px solid #fff;
-	padding: 10px 30px;
-	margin-right: 200px;
-	color: black;
-	text-decoration: none;
-	transition: 0.6s ease;
+p{
+	text-decoration-color: red;
+	text-align: center;
+	color-profile: red;
 }
-.butn:hover{
-	background-color: skyblue;
-	color: #000;
-}
-.edu{
-	text-align:center;
 }
 img{
 	float: left;
@@ -62,4 +53,12 @@ font-size: 30px;
 table-layout: fixed;
 opacity: 0.9;		
 margin-top: 100px;
+}
+.body{
+	font-family:"Torch";
+	font-style: italic;
+	text-align: center;
+	font-size: 250%;
+	background-color: skyblue;
+	color: red;
 }
