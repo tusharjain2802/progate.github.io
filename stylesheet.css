@@ -1,0 +1,65 @@
+body {
+	background-color: #cccccc;
+	font-family:"Times New Roman";
+	text-align:center;
+}
+
+.btn{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	color: black;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+.btn:hover{
+	background-color: skyblue;
+	color: #000;
+}
+.butn{
+	border: 1px solid #fff;
+	padding: 10px 30px;
+	margin-right: 200px;
+	color: black;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+.butn:hover{
+	background-color: skyblue;
+	color: #000;
+}
+.edu{
+	text-align:center;
+}
+img{
+	float: left;
+  font-size: 100px;
+  padding-top:20px;
+  padding-left:400px;
+
+
+}
+.header {
+  background-color: grey;
+  color: skyblue;
+  height: 90px;
+  width:100%;
+  position :fixed;
+  top: 0;
+  z-index: 10;
+}
+.header-logo {
+  text-align:center;
+  font-size: 50px;
+  padding-top:15px;
+  padding-left:20px;
+}
+table , tr,td {
+width:80%;
+width: auto;
+border-collapse: collapse;
+text-align: center;
+font-size: 30px;
+table-layout: fixed;
+opacity: 0.9;		
+margin-top: 100px;
+}
